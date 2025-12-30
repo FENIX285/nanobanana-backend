@@ -1,0 +1,11 @@
+{
+  "name": "nano-banana-credits-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "@vercel/kv": "^1.0.1",
+    "jose": "^5.9.6",
+    "uuid": "^9.0.1"
+  }
+}
